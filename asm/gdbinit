@@ -4,4 +4,4 @@ display/z $x7
 
 set disassemble-next-line on
 b _start
-c
+b stop
